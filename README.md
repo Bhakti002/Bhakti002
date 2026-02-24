@@ -68,8 +68,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: Add your LinkedIn profile link  
+- 📧 Email: bhavsarbhakti6@gmail.com  
+- 💼 LinkedIn:   
 
 ---
 
