@@ -1,121 +1,78 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    body {
-        margin: 0;
-        padding: 0;
-        font-family: 'Segoe UI', sans-serif;
-        background: linear-gradient(135deg, #667eea, #764ba2);
-        color: white;
-        text-align: center;
-    }
+<h1 align="center">Hi 👋, I'm Bhavsar Bhakti</h1>
+<h3 align="center">MERN Stack Developer | Aspiring Full Stack Developer</h3>
 
-    .container {
-        padding: 40px 20px;
-    }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-    h1 {
-        font-size: 40px;
-        margin-bottom: 10px;
-    }
+---
 
-    h2 {
-        margin-top: 40px;
-        font-size: 26px;
-        border-bottom: 2px solid white;
-        display: inline-block;
-        padding-bottom: 5px;
-    }
+## 👩‍💻 About Me
 
-    p {
-        font-size: 18px;
-        max-width: 600px;
-        margin: 10px auto;
-        line-height: 1.6;
-    }
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 💻 Completed **Frontend Development**
+- 🌱 Currently learning **Backend Development**
+- 🚀 Interested in building modern & responsive web applications
+- 🎯 Goal: Become a professional Full Stack Developer
 
-    .skills span {
-        display: inline-block;
-        background: white;
-        color: #764ba2;
-        padding: 8px 15px;
-        margin: 8px;
-        border-radius: 20px;
-        font-weight: 600;
-        transition: 0.3s;
-    }
+---
 
-    .skills span:hover {
-        background: #ffcc70;
-        color: black;
-        transform: scale(1.1);
-    }
+## 🛠️ Tech Stack
 
-    .projects div {
-        background: rgba(255,255,255,0.1);
-        margin: 15px auto;
-        padding: 15px;
-        border-radius: 10px;
-        max-width: 500px;
-        transition: 0.3s;
-    }
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-    .projects div:hover {
-        background: rgba(255,255,255,0.2);
-        transform: translateY(-5px);
-    }
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-    .footer {
-        margin-top: 50px;
-        font-size: 14px;
-        opacity: 0.8;
-    }
-</style>
-</head>
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<body>
+### 🔧 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-<div class="container">
+---
 
-    <h1>Hi, I'm Bhavsar Bhakti 👋</h1>
-    <p>BCA Final Semester Student | Full Stack Developer (Learning & Growing)</p>
+## 📂 Projects
 
-    <h2>👩‍💻 About Me</h2>
-    <p>
-        I'm passionate about building modern, responsive websites.  
-        Completed Frontend development and currently learning Backend.  
-        I love creating attractive UI and improving my coding skills every day.
-    </p>
+- 🛍️ Fashion E-Commerce Website  
+- 🏦 Banking Dashboard  
+- 🌐 Animated Portfolio Website  
 
-    <h2>🛠️ Tech Stack</h2>
-    <div class="skills">
-        <span>HTML5</span>
-        <span>CSS3</span>
-        <span>Bootstrap</span>
-        <span>JavaScript</span>
-        <span>Node.js</span>
-        <span>Express.js</span>
-        <span>MongoDB</span>
-        <span>Git & GitHub</span>
-    </div>
+*(More exciting projects coming soon...)*
 
-    <h2>📂 Projects</h2>
-    <div class="projects">
-        <div>🛍️ Fashion E-Commerce Website</div>
-        <div>🏦 Banking Dashboard</div>
-        <div>🌐 Animated Portfolio Website</div>
-    </div>
+---
 
-    <h2>📫 Contact Me</h2>
-    <p>Email: your-email@example.com</p>
-    <p>LinkedIn: Add your LinkedIn link here</p>
+## 📊 GitHub Stats
 
-    <div class="footer">
-        ✨ “Keep learning, keep building, and never stop growing.” ✨
-    </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-</div>
+---
 
-</body>
-</html>
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: Add your LinkedIn profile link  
+
+---
+
+<p align="center">
+  ✨ <b>"Keep learning, keep building, and never stop growing."</b> ✨
+</p>
